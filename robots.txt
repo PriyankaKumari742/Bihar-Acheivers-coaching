@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://biharwebstudio.com/sitemap.xml
